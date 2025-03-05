@@ -5,7 +5,7 @@
 ---
 
 ## 🤖 2025-1 인공지능개론  
-- **💻 강의 자료**: [Introduction-to-Artificial-Intelligence-2024-1](https://github.com/NLPlab-skku/Introduction-to-Artificial-Intelligence-2025-1)
+- **💻 강의 자료**: [Introduction-to-Artificial-Intelligence-2025-1](https://github.com/NLPlab-skku/Introduction-to-Artificial-Intelligence-2025-1)
 
 ---
 
